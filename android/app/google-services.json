@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510415397998",
+    "project_id": "navi-app-440df",
+    "storage_bucket": "navi-app-440df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510415397998:android:b57fee45703830d8a7327f",
+        "android_client_info": {
+          "package_name": "com.navi.navi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510415397998-glpuqdcf32s7kqlu0e009vu3u6v8ki13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXE2bxqm9Gb6CL3HgPseWX7sE9S3KYDXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510415397998-glpuqdcf32s7kqlu0e009vu3u6v8ki13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
